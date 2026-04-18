@@ -1,0 +1,197 @@
+/* ===== BASE ===== */
+body {
+  margin: 0;
+  font-family: 'Inter', 'Plus Jakarta Sans', sans-serif;
+  background: #020617;
+  color: #f8fafc;
+}
+
+/* ===== ROOT ===== */
+#root {
+  min-height: 100vh;
+}
+
+/* ===== CARD ===== */
+.ant-card {
+  background: rgba(15,23,42,0.7) !important;
+  border: 1px solid rgba(255,255,255,0.08) !important;
+  border-radius: 20px !important;
+  overflow: visible !important;
+}
+
+/* ===== TABLE ===== */
+.ant-table,
+.ant-table-container {
+  background: transparent !important;
+}
+
+.ant-table-thead > tr > th {
+  background: transparent !important;
+  color: rgba(255,255,255,0.6) !important;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  font-size: 12px;
+}
+
+.ant-table-tbody > tr > td {
+  background: transparent !important;
+  color: #fff;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+.ant-table-tbody > tr:hover > td {
+  background: rgba(255,255,255,0.04) !important;
+}
+
+/* ===== INPUT (ПОИСК FIX) ===== */
+.ant-input-affix-wrapper {
+  background: rgba(255,255,255,0.05) !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  border-radius: 10px !important;
+  height: 40px;
+  padding: 0 12px !important;
+}
+
+.ant-input-affix-wrapper input {
+  background: transparent !important;
+  border: none !important;
+  color: #fff !important;
+}
+
+.ant-input::placeholder {
+  color: rgba(255,255,255,0.4) !important;
+}
+
+/* focus */
+.ant-input-affix-wrapper-focused {
+  border-color: #3b82f6 !important;
+  box-shadow: 0 0 0 2px rgba(59,130,246,0.2) !important;
+}
+
+/* ===== SELECT ===== */
+.ant-select-selector {
+  height: 40px !important;
+  border-radius: 10px !important;
+  background: rgba(255,255,255,0.05) !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  display: flex;
+  align-items: center;
+  color: #fff !important;
+}
+
+.ant-select-selection-item {
+  color: #fff !important;
+}
+
+.ant-select-selection-placeholder {
+  color: rgba(255,255,255,0.4) !important;
+}
+
+.ant-select-focused .ant-select-selector {
+  border-color: #3b82f6 !important;
+  box-shadow: 0 0 0 2px rgba(59,130,246,0.2) !important;
+}
+
+/* ===== DROPDOWN ===== */
+.ant-select-dropdown {
+  background: #1e293b !important;
+  border-radius: 12px !important;
+  z-index: 99999 !important;
+  padding: 6px;
+}
+
+.ant-select-item {
+  color: #fff !important;
+  border-radius: 8px;
+}
+
+.ant-select-item-option-active {
+  background: rgba(255,255,255,0.08) !important;
+}
+
+.ant-select-item-option-selected {
+  background: rgba(59,130,246,0.3) !important;
+}
+
+/* ===== DATE PICKER ===== */
+.ant-picker {
+  height: 40px !important;
+  border-radius: 10px !important;
+  background: rgba(255,255,255,0.05) !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+.ant-picker input {
+  color: #fff !important;
+}
+
+/* ===== BUTTON ===== */
+.ant-btn {
+  height: 40px;
+  border-radius: 10px !important;
+  background: rgba(255,255,255,0.05) !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+  color: #fff !important;
+}
+
+.ant-btn:hover {
+  background: rgba(255,255,255,0.08) !important;
+}
+
+/* PRIMARY BUTTON */
+.ant-btn-primary {
+  background: linear-gradient(135deg, #3b82f6, #2563eb) !important;
+  border: none !important;
+}
+
+/* ===== PAGINATION ===== */
+.ant-pagination-item {
+  background: rgba(255,255,255,0.05) !important;
+  border: none !important;
+}
+
+.ant-pagination-item a {
+  color: #fff !important;
+}
+
+.ant-pagination-item-active {
+  background: #3b82f6 !important;
+}
+
+/* ===== SCROLLBAR (красиво) ===== */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.2);
+  border-radius: 10px;
+}
+
+/* фон попапа */
+.ant-popover-inner {
+  background: #1e293b !important;
+  border-radius: 12px !important;
+}
+
+/* текст */
+.ant-popover-message-title {
+  color: #fff !important;
+}
+
+/* стрелка */
+.ant-popover-arrow::before {
+  background: #1e293b !important;
+}
+
+/* кнопки */
+.ant-popover .ant-btn {
+  background: rgba(255,255,255,0.05) !important;
+  color: #fff !important;
+  border: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+/* OK кнопка */
+.ant-popover .ant-btn-primary {
+  background: #3b82f6 !important;
+  border: none !important;
+}

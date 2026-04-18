@@ -1,0 +1,15 @@
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\bin\Debug\net9.0\FinanceTracker.Application.deps.json
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\bin\Debug\net9.0\FinanceTracker.Application.dll
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\bin\Debug\net9.0\FinanceTracker.Application.pdb
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\bin\Debug\net9.0\FinanceTracker.Domain.dll
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\bin\Debug\net9.0\FinanceTracker.Domain.pdb
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.csproj.AssemblyReference.cache
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.AssemblyInfoInputs.cache
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.AssemblyInfo.cs
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceT.00C3F739.Up2Date
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.dll
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\refint\FinanceTracker.Application.dll
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\FinanceTracker.Application.pdb
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Application\obj\Debug\net9.0\ref\FinanceTracker.Application.dll

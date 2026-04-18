@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x2pQn2XncOVSg6G4fKVZbFKYxPND6N7XmeY7wrrk26k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3930"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022x2pQn2XncOVSg6G4fKVZbFKYxPND6N7XmeY7wrrk26k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:36:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/css/style.fmu7caeokw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fmu7caeokw"},{"Name":"integrity","Value":"sha256-x2pQn2XncOVSg6G4fKVZbFKYxPND6N7XmeY7wrrk26k="},{"Name":"label","Value":"_content/FinanceTracker.API/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3930"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022x2pQn2XncOVSg6G4fKVZbFKYxPND6N7XmeY7wrrk26k=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:36:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Kj/bGze/gaLqYsLzFVH6a2RwGIi6XTw5lDbz/8zqA2Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3608"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Kj/bGze/gaLqYsLzFVH6a2RwGIi6XTw5lDbz/8zqA2Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/index.y58axapzqs.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y58axapzqs"},{"Name":"integrity","Value":"sha256-Kj/bGze/gaLqYsLzFVH6a2RwGIi6XTw5lDbz/8zqA2Y="},{"Name":"label","Value":"_content/FinanceTracker.API/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3608"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Kj/bGze/gaLqYsLzFVH6a2RwGIi6XTw5lDbz/8zqA2Y=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/js/app.9k5rkai4s7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9k5rkai4s7"},{"Name":"integrity","Value":"sha256-6XCOvd65zSNjS29CCMVfhT/MQj/hisij4lOn228OFGU="},{"Name":"label","Value":"_content/FinanceTracker.API/js/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4575"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226XCOvd65zSNjS29CCMVfhT/MQj/hisij4lOn228OFGU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:36:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/js/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6XCOvd65zSNjS29CCMVfhT/MQj/hisij4lOn228OFGU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4575"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226XCOvd65zSNjS29CCMVfhT/MQj/hisij4lOn228OFGU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:36:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/pages/addEntity.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\addEntity.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XXsX27csfIp2aG7HryF3Rhf\u002BvShqfKRwEvsIOKgpVbs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6896"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022XXsX27csfIp2aG7HryF3Rhf\u002BvShqfKRwEvsIOKgpVbs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/pages/addEntity.xbfbdfdbmb.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\addEntity.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xbfbdfdbmb"},{"Name":"integrity","Value":"sha256-XXsX27csfIp2aG7HryF3Rhf\u002BvShqfKRwEvsIOKgpVbs="},{"Name":"label","Value":"_content/FinanceTracker.API/pages/addEntity.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6896"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022XXsX27csfIp2aG7HryF3Rhf\u002BvShqfKRwEvsIOKgpVbs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/pages/details.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PDqE4fyybbM0b3Vgxj0LEfRv9da6fg9V0eegQ4FmMk0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5528"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022PDqE4fyybbM0b3Vgxj0LEfRv9da6fg9V0eegQ4FmMk0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FinanceTracker.API/pages/details.o9eoot3sfj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\pages\details.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o9eoot3sfj"},{"Name":"integrity","Value":"sha256-PDqE4fyybbM0b3Vgxj0LEfRv9da6fg9V0eegQ4FmMk0="},{"Name":"label","Value":"_content/FinanceTracker.API/pages/details.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5528"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022PDqE4fyybbM0b3Vgxj0LEfRv9da6fg9V0eegQ4FmMk0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 17 Apr 2026 21:37:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

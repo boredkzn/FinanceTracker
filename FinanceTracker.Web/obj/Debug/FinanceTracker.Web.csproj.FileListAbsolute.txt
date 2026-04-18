@@ -1,0 +1,1 @@
+C:\Users\shami\RiderProjects\FinanceTracker\FinanceTracker.Web\obj\Debug\FinanceTracker.Web.csproj.CoreCompileInputs.cache

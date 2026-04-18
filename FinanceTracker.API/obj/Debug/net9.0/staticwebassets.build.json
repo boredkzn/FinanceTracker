@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "79bVu1/JQgwSyI2cyqlQfnqakOevq5qLZ5nqolFgHhE=",
+  "Source": "FinanceTracker.API",
+  "BasePath": "_content/FinanceTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinanceTracker.API\\wwwroot",
+      "Source": "FinanceTracker.API",
+      "ContentRoot": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\",
+      "BasePath": "_content/FinanceTracker.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

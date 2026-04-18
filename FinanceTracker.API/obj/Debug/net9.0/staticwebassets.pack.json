@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\pages\\addEntity.html",
+      "PackagePath": "staticwebassets\\pages\\addEntity.html"
+    },
+    {
+      "Id": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.API\\wwwroot\\pages\\details.html",
+      "PackagePath": "staticwebassets\\pages\\details.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FinanceTracker.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FinanceTracker.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.FinanceTracker.API.props",
+      "PackagePath": "build\\FinanceTracker.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.FinanceTracker.API.props",
+      "PackagePath": "buildMultiTargeting\\FinanceTracker.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.FinanceTracker.API.props",
+      "PackagePath": "buildTransitive\\FinanceTracker.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxfx5Cebv1Y=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.Web\\FinanceTracker.Web.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-none",
+      "projectPath": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.Web\\FinanceTracker.Web.csproj",
+      "filePath": "C:\\Users\\shami\\RiderProjects\\FinanceTracker\\FinanceTracker.Web\\FinanceTracker.Web.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
